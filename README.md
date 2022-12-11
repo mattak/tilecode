@@ -7,11 +7,11 @@ It is represented by simple binary format.
 
 ## Examples
 
-Zoom:4 X:12 Y:1 
+Zoom:4 X:12 Y:3
 
 ```
 X = 12 = 0b1100
-Y = 1 = 0b0011
+Y = 3 = 0b0011
 
 1 1 0 0
  0 0 1 1
