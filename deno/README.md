@@ -11,7 +11,7 @@ $ deno run main.ts <binarycode>
 $ deno run main.ts <hexcode>
 ```
 
-or you can directory run by url.
+or you can directly run by url.
 
 ```shell
 $ deno run https://raw.githubusercontent.com/mattak/tilecode/main/deno/main.ts <zoom> <lat> <lng>
